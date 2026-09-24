@@ -1,0 +1,2 @@
+class AIUtilsError(Exception):
+    '''Exception'''

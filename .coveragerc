@@ -1,0 +1,4 @@
+[run]
+omit =
+    src\aiutils\config.py 
+    src\aiutils\exceptions.py 

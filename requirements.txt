@@ -1,0 +1,9 @@
+pydantic
+sentence-transformers
+groq
+pytest
+pytest-mock
+ruff
+mypy
+pytest-cov
+build
